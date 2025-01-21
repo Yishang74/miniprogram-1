@@ -1,0 +1,6 @@
+<!--pages/xiaorongjiancha/xiaorongjiancha.wxml-->
+<text>
+  喉镜、心电图及DR胸部检查：
+  在术前需要完善其他的检查，包括通过心电图评估心脏功能，尤其是术前术后对心脏的影响；通过DR胸部检查评估胸部情况，同时检查是否有肺部病变或转移；通过喉镜检查喉部是否受损，评估气道情况，在此过程中，会使用达己苏缓解喉镜疼痛和不适的症状。
+</text>
+<video src="miniprogram\video\甲状腺科普视频.mp4" controls></video>

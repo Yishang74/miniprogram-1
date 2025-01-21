@@ -1,0 +1,7 @@
+
+    <view  wx:for="{{routers}}" wx:key="name">  
+        <view >  
+          <image class="image" src=" {{item.image}}" mode="scaleToFill" />  
+        </view>  
+        <text class="label">{{item.text}}</text>   
+    </view>  

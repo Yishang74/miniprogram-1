@@ -1,0 +1,8 @@
+<view>  
+    <view wx:for="{{routers}}" wx:key="name">  
+      <navigator url="{{item.url}}">  
+        <text class="text">{{item.text}}</text>  
+      </navigator>  
+    </view>  
+
+  </view>
