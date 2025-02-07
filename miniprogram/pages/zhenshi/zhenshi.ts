@@ -7,7 +7,7 @@ Page({
   data: {
     routers :[
       {
-        text: '先在马路对面3',
+        text: '先在马路对面',
         image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/1.jpg',
       },
       {
