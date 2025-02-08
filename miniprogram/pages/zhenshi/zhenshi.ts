@@ -51,8 +51,12 @@ Page({
         image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/11.jpg',
       },
       {
-        text: '左转后右转到诊室门口等候就诊',
+        text: '左转',
         image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/12.jpg',
+      },
+      {
+        text: '右转到诊室门口等候就诊',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/13.jpg',
       },
     ],
     imgUrls: [

@@ -7,52 +7,20 @@ Page({
   data: {
     routers :[
       {
-        text: '先在马路对面',
-        image: '/images/',
+        text: '抽血后往回走',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E7%A9%BF%E5%88%BA%E8%B6%85%E5%A3%B0%E4%BB%8B%E5%85%A5%E5%AE%A4/%E7%A9%BF%E5%88%BA1.jpg',
       },
       {
-        text: '过马路',
-        image: '/images/',
+        text: '到此处电梯旁',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E7%A9%BF%E5%88%BA%E8%B6%85%E5%A3%B0%E4%BB%8B%E5%85%A5%E5%AE%A4/%E7%A9%BF%E5%88%BA2.jpg',
       },
       {
-        text: '进入小路看到“核医学科”标志',
-        image: '/images/',
+        text: '坐电梯到4楼',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E7%A9%BF%E5%88%BA%E8%B6%85%E5%A3%B0%E4%BB%8B%E5%85%A5%E5%AE%A4/%E7%A9%BF%E5%88%BA3.jpg',
       },
       {
-        text: '前面一个路口右转',
-        image: '/images/',
-      },
-      {
-        text: '一直直走',
-        image: '/images/',
-      },
-      {
-        text: '再往前走',
-        image: '/images/',
-      },
-      {
-        text: '右转',
-        image: '/images/',
-      },
-      {
-        text: '走到第一个扶梯前面的路口',
-        image: '/images/',
-      },
-      {
-        text: '右转',
-        image: '/images/',
-      },
-      {
-        text: '坐电梯上三楼',
-        image: '/images/',
-      },
-      {
-        text: '出电梯右转',
-        image: '/images/',
-      },
-      {
-        text: '左转后右转到诊室门口等候就诊',
-        image: '/images/',
+        text: '电梯右前方为穿刺超声介入室',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E7%A9%BF%E5%88%BA%E8%B6%85%E5%A3%B0%E4%BB%8B%E5%85%A5%E5%AE%A4/%E7%A9%BF%E5%88%BA4.jpg',
       },
     ],
     imgUrls: [

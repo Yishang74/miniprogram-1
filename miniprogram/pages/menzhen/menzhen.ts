@@ -13,19 +13,19 @@ Page({
       },
       {
         text: '彩超预约窗口',
-        url: '/pages/caichaoyuyue/caichaoyuyue',
+        icon: 'http://sq33blnvo.hd-bkt.clouddn.com/%E5%9B%BE%E6%A0%87/%E6%88%91%E7%9A%84%E9%A2%84%E7%BA%A6.png',
       },
       {
         text: '穿刺预约窗口',
-        url: '/pages/chuanciyuyue/chuanciyuyue',
+        icon: 'http://sq33blnvo.hd-bkt.clouddn.com/%E5%9B%BE%E6%A0%87/%E6%88%91%E7%9A%84%E9%A2%84%E7%BA%A6.png',
       },
       {
         text: '穿刺超声介入室',
-        url: '/pages/chuanci/chuanci',
+        icon:  'http://sq33blnvo.hd-bkt.clouddn.com/%E5%9B%BE%E6%A0%87/%E7%A9%BF%E5%88%BA.png',
       },
       {
-        text: '入院服务中心',
-        url: '/pages/ruyuan/ruyuan',
+        text: '彩超检查',
+        icon:  'http://sq33blnvo.hd-bkt.clouddn.com/%E5%9B%BE%E6%A0%87/%E5%BD%A9%E8%B6%85.png',
       }
     ],
 

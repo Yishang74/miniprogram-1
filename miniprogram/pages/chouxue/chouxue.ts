@@ -7,52 +7,32 @@ Page({
   data: {
     routers :[
       {
-        text: '先在马路对面',
-        image: '/images/',
+        text: '出门诊等候区左转',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E6%8A%BD%E8%A1%80%E6%A3%80%E6%9F%A5/%E6%8A%BD%E8%A1%801.jpg',
       },
       {
-        text: '过马路',
-        image: '/images/',
+        text: '再右转并直走',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E6%8A%BD%E8%A1%80%E6%A3%80%E6%9F%A5/%E6%8A%BD%E8%A1%802.jpg',
       },
       {
-        text: '进入小路看到“核医学科”标志',
-        image: '/images/',
+        text: '直走后左转',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E6%8A%BD%E8%A1%80%E6%A3%80%E6%9F%A5/%E6%8A%BD%E8%A1%803.jpg',
       },
       {
-        text: '前面一个路口右转',
-        image: '/images/',
+        text: '直走',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E6%8A%BD%E8%A1%80%E6%A3%80%E6%9F%A5/%E6%8A%BD%E8%A1%804.jpg',
       },
       {
         text: '一直直走',
-        image: '/images/',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E6%8A%BD%E8%A1%80%E6%A3%80%E6%9F%A5/%E6%8A%BD%E8%A1%805.jpg',
       },
       {
         text: '再往前走',
-        image: '/images/',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E6%8A%BD%E8%A1%80%E6%A3%80%E6%9F%A5/%E6%8A%BD%E8%A1%806.jpg',
       },
       {
-        text: '右转',
-        image: '/images/',
-      },
-      {
-        text: '走到第一个扶梯前面的路口',
-        image: '/images/',
-      },
-      {
-        text: '右转',
-        image: '/images/',
-      },
-      {
-        text: '坐电梯上三楼',
-        image: '/images/',
-      },
-      {
-        text: '出电梯右转',
-        image: '/images/',
-      },
-      {
-        text: '左转后右转到诊室门口等候就诊',
-        image: '/images/',
+        text: '到达抽血窗口报道后采血',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E6%8A%BD%E8%A1%80%E6%A3%80%E6%9F%A5/%E6%8A%BD%E8%A1%807.jpg',
       },
     ],
     imgUrls: [
