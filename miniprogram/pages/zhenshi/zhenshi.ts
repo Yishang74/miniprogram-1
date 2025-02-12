@@ -8,51 +8,51 @@ Page({
     routers :[
       {
         text: '先在马路对面',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/1.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/1.jpg',
       },
       {
         text: '过马路',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/2.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/2.jpg',
       },
       {
         text: '进入小路看到“核医学科”标志',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/3.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/3.jpg',
       },
       {
         text: '前面一个路口右转',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/4.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/4.jpg',
       },
       {
         text: '一直直走',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/5.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/5.jpg',
       },
       {
         text: '再往前走',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/6.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/6.jpg',
       },
       {
         text: '右转',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/7.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/7.jpg',
       },
       {
         text: '走到第一个扶梯前面的路口',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/8.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/8.jpg',
       },
       {
         text: '右转',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/9.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/9.jpg',
       },
       {
         text: '坐电梯上三楼',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/10.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/10.jpg',
       },
       {
         text: '出电梯右转',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/11.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/11.jpg',
       },
       {
         text: '左转',
-        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A%E8%AF%8A%E5%AE%A4/12.jpg',
+        image: 'http://sq33blnvo.hd-bkt.clouddn.com/%E9%97%A8%E8%AF%8A%E5%BC%95%E5%AF%BC/%E9%97%A8%E8%AF%8A/12.jpg',
       },
       {
         text: '右转到诊室门口等候就诊',
